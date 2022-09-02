@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+}
+body{
+    margin:0;
+    background-color: #032241;
+    color:rgb(0, 0, 0);
+    
+    
+}
+fieldset{
+        width: 80%;
+        background-color: rgb(255, 255, 255);
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+        max-width: 500px
+}
+.name{
+    
+    box-shadow: 0 0 20px 0 rgb(223, 211, 211);
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+    
+}
+.gender {
+    
+    box-shadow: 0 0 20px 0 whitesmoke;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+.live{
+    
+    box-shadow: 0 0 20px 0 whitesmoke;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+
